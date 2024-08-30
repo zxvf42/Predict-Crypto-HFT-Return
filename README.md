@@ -1,6 +1,8 @@
 # How and When are High-Frequency Crypto Returns Predictable?
 
-This is a toy project based on and containing some code implementations of parts from the  work by Aït-Sahalia et al. (2022)[^1].
+This is a toy project based on and containing some code implementations of parts from the work by Aït-Sahalia et al. (2022)[^1]:
+
+> Aït-Sahalia, Y., Fan, J., Xue, L., & Zhou, Y. (2022). *How and When are High-Frequency Stock Returns Predictable?* (No. w30366). National Bureau of Economic Research. 
 
 The main purpose of this project is to study the predictability of high-frequency crypto returns (in an ideal offline research environment). This project is not intended to be a practical trading strategy, but rather a simple demonstration for research purpose. It is also a practice of analyzing the high-frequency order book and trades data of cryptocurrencies.
 
